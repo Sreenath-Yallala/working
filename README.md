@@ -1,3 +1,2 @@
-# working
-My working codes and downloaded files
-making the first change into branch
+#  About my first project on GitHub
+
